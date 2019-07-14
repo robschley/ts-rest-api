@@ -11,6 +11,13 @@
   "author": {
     "name": "Rob Schley"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robschley/ts-rest-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/robschley/ts-rest-api/issues"
+  },
   "license": "MIT",
   "dependencies": {
     "class-transformer": "^0.2.3",
